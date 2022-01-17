@@ -1,4 +1,7 @@
-.App {
+.navbar-nav a{
+  font-size: 18px;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +38,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
